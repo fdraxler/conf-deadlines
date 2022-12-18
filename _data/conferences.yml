@@ -1,16 +1,26 @@
 ---
 
-- title: ICSE
+- title: ICSE First Cycle
   hindex: 46
-  year: 2023
-  id: icse23
-  link: https://conf.researchr.org/track/icse-2023/icse-2023-technical-track
-  deadline: '2022-09-01 23:59:59'
+  year: 2024
+  id: icse24-1
+  link: https://conf.researchr.org/track/icse-2024/icse-2024-research-track
+  deadline: '2023-03-29 23:59:59'
   timezone: UTC-12
-  date: May 14-20, 2023
-  place: Melbourne, Australia
+  date: April 12-21, 2024
+  place: Lisbon, Portugal
   sub: SE
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Aug 25, 2022 (AoE)'
+  
+- title: ICSE Second Cycle
+  hindex: 46
+  year: 2024
+  id: icse24-2
+  link: https://conf.researchr.org/track/icse-2024/icse-2024-research-track
+  deadline: '2023-08-01 23:59:59'
+  timezone: UTC-12
+  date: April 12-21, 2024
+  place: Lisbon, Portugal
+  sub: SE
 
 - title: ICLR
   hindex: 150
@@ -265,15 +275,15 @@
 
 - title: FSE
   hindex: 46
-  year: 2022
-  id: fse22
-  link: https://2022.esec-fse.org/
-  deadline: '2022-03-18 23:59:59'
+  year: 2023
+  id: fse23
+  link: https://2023.esec-fse.org/track/fse-2023-research-papers
+  deadline: '2023-02-02 23:59:59'
   timezone: UTC-12
-  date: November 14-18, 2022
-  place: Singapore
+  date: November 11-17, 2023
+  place: San Francisco, USA
   sub: SE
-  note: '<b>NOTE</b>: Mandatory abstract deadline on March 11, 2022 (AoE)'
+  note: '<b>NOTE</b>: Research Papers Paper registration on 26 Jan 2023 (AoE)'
 
 - title: NSDI
   hindex: 46
@@ -289,15 +299,26 @@
 
 - title: ASE
   hindex: 47
-  year: 2022
-  id: ase22
-  link: https://conf.researchr.org/track/ase-2022/ase-2022-research-papers
-  deadline: '2022-05-06 23:59:59'
+  year: 2023
+  id: ase23
+  link: https://conf.researchr.org/track/ase-2023/ase-2023-papers
+  deadline: '2023-05-05 23:59:59'
   timezone: UTC-12
-  date: Sept 26-Oct 1, 2022
-  place: Ann Arbor, Michigan, United States
+  date: Sept 11-15, 2023
+  place: Kirchberg, Luxembourg
   sub: SE
-  note: '<b>NOTE</b>: Mandatory abstract deadline on April 29, 2022 (AoE)'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on 28 Apr 2023 (AoE)'
+
+- title: ISSTA Second Round
+  hindex: N/A
+  year: 2023
+  id: issta23
+  link: https://conf.researchr.org/track/issta-2023/issta-2023-technical-papers
+  deadline: '2023-02-16 23:59:59'
+  timezone: UTC-12
+  date: July 17-21, 2023
+  place: Seattle, USA
+  sub: SE
 
 - title: ISSRE
   hindex: 112
