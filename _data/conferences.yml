@@ -1,5 +1,15 @@
 ---
 
+- title: GCPR
+  year: 2023
+  id: gcpr23
+  link: https://github.com/yttty/conf-deadlines
+  deadline: '2023-06-02 23:59:59'
+  timezone: UTC-12
+  date: September 19-22, 2023
+  place: Heidelberg, Germany
+  sub: ML
+
 - title: ICSE First Cycle
   hindex: 46
   year: 2024
